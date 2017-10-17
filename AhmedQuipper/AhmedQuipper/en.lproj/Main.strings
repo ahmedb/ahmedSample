@@ -1,0 +1,30 @@
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "CTv-KF-dZX"; */
+"CTv-KF-dZX.normalTitle" = "Close";
+
+/* Class = "UIButton"; normalTitle = "R"; ObjectID = "D7s-95-dH6"; */
+"D7s-95-dH6.normalTitle" = "R";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "Dg7-Zc-X4P"; */
+"Dg7-Zc-X4P.text" = "00:00:00";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GUB-bE-pcv"; */
+"GUB-bE-pcv.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HDY-4A-TRg"; */
+"HDY-4A-TRg.text" = "Label";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "Jcg-es-b13"; */
+"Jcg-es-b13.text" = "00:00:00";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dfN-pb-1Fl"; */
+"dfN-pb-1Fl.text" = "Label";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "gKD-NA-Sfx"; */
+"gKD-NA-Sfx.text" = "00:00:00";
+
+/* Class = "UIButton"; normalTitle = "P"; ObjectID = "gNl-Sp-RB3"; */
+"gNl-Sp-RB3.normalTitle" = "P";
+
+/* Class = "UIButton"; normalTitle = "F"; ObjectID = "mb2-g6-bI4"; */
+"mb2-g6-bI4.normalTitle" = "F";

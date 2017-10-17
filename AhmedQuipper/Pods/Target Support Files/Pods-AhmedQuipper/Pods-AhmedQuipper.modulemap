@@ -1,0 +1,6 @@
+framework module Pods_AhmedQuipper {
+  umbrella header "Pods-AhmedQuipper-umbrella.h"
+
+  export *
+  module * { export * }
+}

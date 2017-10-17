@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  AhmedQuipper
+
+  Created by Ahmed Bakir on 2017/10/17.
+  Copyright © 2017 Ahmed Bakir. All rights reserved.
+*/
+
+"Playlist" = "Playlist";
+"Cancel" = "Cancel";
+"OK" = "OK";
